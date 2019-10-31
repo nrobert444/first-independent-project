@@ -4,17 +4,18 @@ img {
   height: auto;
   margin: 30px;
 }
-
-body, html {
-  height: 100%
+ h1 {
+   text-align: center;
+   color: blue;
+ }
+p {
+  text-align: center;
 }
 
-.bg {
-  background-image: url("image/portlandcityscape.jpg");
-
+.sidebar {
   height: 100%;
-
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  width: 120px;
+  position: fixed;
+  background-color: salmon;
+  padding-top: 30px;
 }
