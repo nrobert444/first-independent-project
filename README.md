@@ -7,11 +7,11 @@ This project is to test my proficiency with using HTML, CSS, Terminal and Bootst
 
 ## Setup
 
-* 
+*
 
 ## Link to project
 
-[link](nrobert444.github.com/io/)
+[FirstIndependent Project](https://nrobert444.github.io/first-independent-project/)
 
 ## Copyright
 
