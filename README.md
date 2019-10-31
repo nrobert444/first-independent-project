@@ -11,7 +11,7 @@ This project is to test my proficiency with using HTML, CSS, Terminal and Bootst
 
 ## Link to project
 
-[FirstIndependent Project](https://nrobert444.github.io/first-independent-project/)
+[First Independent Project](https://nrobert444.github.io/first-independent-project/)
 
 ## Copyright
 
