@@ -41,6 +41,16 @@ small {
   font-family: sans-serif;
 }
 
+.banner {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.image2 {
+  align-self: center;
+}
+
 
 @media screen and (1000px) {
 
