@@ -22,7 +22,26 @@ p {
   padding-top: 30px;
 }
 
+.bottombar {
+  height: 120px;
+  width: 100%
+  position:absolute;
+  background-color: beige;
+  margin:20px;
+  align-content: stretch;
+}
+
 small {
   font-style: italic;
   text-align: center;
+}
+.large {
+  font-size: 48px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+
+@media screen and (1000px) {
+
 }
