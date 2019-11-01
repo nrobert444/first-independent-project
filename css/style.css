@@ -6,16 +6,23 @@ img {
 }
  h1 {
    text-align: center;
-   color: blue;
+   color: #030f40;
  }
 p {
   text-align: center;
+  font-size: 18px;
+  font-family: Arial;
 }
 
 .sidebar {
   height: 100%;
   width: 120px;
-  position: fixed;
+  position: absolute;
   background-color: salmon;
   padding-top: 30px;
+}
+
+small {
+  font-style: italic;
+  text-align: center;
 }
