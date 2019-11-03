@@ -48,7 +48,13 @@ small {
 }
 
 .image2 {
-  align-self: center;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.image3 {
+  margin-left:200px;
+  margin-top: 40px;
 }
 
 
