@@ -7,7 +7,7 @@ This project is to test my proficiency with using HTML, CSS, Terminal and Bootst
 
 ## Setup
 
-*
+Using the link below you should be able to access a working github pages live site that contains this project.
 
 ## Link to project
 
