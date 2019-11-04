@@ -15,20 +15,19 @@ p {
 }
 
 .sidebar {
-  height: 100%;
-  width:120px;
-  position: absolute;
+  position:fixed;
+  height:100%;
+  width:6%;
   background-color: salmon;
   padding-top: 30px;
+  padding-left: 20px;
 }
 
 .bottombar {
-  height: 120px;
-  width: 100%
-  position:absolute;
-  background-color: beige;
-  margin:20px;
-  align-content: stretch;
+  position: absolute;
+  background-color: salmon;
+  height: 12%;
+  width: 100%;
 }
 
 small {
@@ -73,5 +72,4 @@ small {
   .well {
     background-color: #e3deab;
   }
-
 }
