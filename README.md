@@ -9,9 +9,15 @@ This project is to test my proficiency with using HTML, CSS, Terminal and Bootst
 
 Using the link below you should be able to access a working github pages live site that contains this project.
 
+Git Clone - to clone this repo use the git clone keyword and this URL: https://github.com/nrobert444/first-independent-project.git
+
+For editing purposes make sure you have the bootstrap.css file downloaded and linked to your index.html page to utilize styles.
+
+
+
 ## Link to project
 
-[First Independent Project](https://nrobert444.github.io/first-independent-project/)
+[First Independent Project](nrobert444.github.io/first-independent-project/)
 
 ## Copyright
 
